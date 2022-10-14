@@ -1,0 +1,693 @@
+{
+  "@@last_modified": "2020-02-27T15:30:43.597469",
+  "email": "E-mail",
+  "@email": {
+    "description": "User email address.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "Senha",
+  "@password": {
+    "description": "User account password.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "signIn": "Entrar",
+  "@signIn": {
+    "description": "Perform sign in.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidEmail": "Email inválido",
+  "@invalidEmail": {
+    "description": "Error message indicating error on email format.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "obligatedField": "Campo obrigatório.",
+  "@obligatedField": {
+    "description": "Error message indicating some field can not be blank.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "dashboard": "Dashboard",
+  "@dashboard": {
+    "description": "Dashboard",
+    "type": "text",
+    "placeholders": {}
+  },
+  "profile": "Perfil",
+  "@profile": {
+    "description": "Perfil",
+    "type": "text",
+    "placeholders": {}
+  },
+  "my_consumption_formatted": "Meu\nConsumo",
+  "@my_consumption_formatted": {
+    "description": "Meu Consumo",
+    "type": "text",
+    "placeholders": {}
+  },
+  "my_consumption": "Meu consumo",
+  "@my_consumption": {
+    "description": "Meu consumo",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loading_data": "Carregando dados...",
+  "@loading_data": {
+    "description": "Carregando dados...",
+    "type": "text",
+    "placeholders": {}
+  },
+  "could_not_load_data": "Não foi possível carregar os dados. Verifque sua conexão",
+  "@could_not_load_data": {
+    "description": "Não foi possível carregar os dados. Verifque sua conexão",
+    "type": "text",
+    "placeholders": {}
+  },
+  "try_again": "Tentar novamente",
+  "@try_again": {
+    "description": "Tentar novamente",
+    "type": "text",
+    "placeholders": {}
+  },
+  "consumption": "Consumo(m³)",
+  "@consumption": {
+    "description": "Consumo",
+    "type": "text",
+    "placeholders": {}
+  },
+  "contingency": "Contingência(m³)",
+  "@contingency": {
+    "description": "Contingência(m³)",
+    "type": "text",
+    "placeholders": {}
+  },
+  "consumption_value": "Valor",
+  "@consumption_value": {
+    "description": "Valor",
+    "type": "text",
+    "placeholders": {}
+  },
+  "consumption_abreviated_plus_unity": "Cons.(m³)",
+  "@consumption_abreviated_plus_unity": {
+    "description": "Cons.(m³)",
+    "type": "text",
+    "placeholders": {}
+  },
+  "minimum": "Mínimo",
+  "@minimum": {
+    "description": "Mínimo",
+    "type": "text",
+    "placeholders": {}
+  },
+  "maximum": "Máximo",
+  "@maximum": {
+    "description": "Máximo",
+    "type": "text",
+    "placeholders": {}
+  },
+  "average": "Média",
+  "@average": {
+    "description": "Média",
+    "type": "text",
+    "placeholders": {}
+  },
+  "consumption_measurement_unit_meter": "metros³",
+  "@consumption_measurement_unit_meter": {
+    "description": "metros³",
+    "type": "text",
+    "placeholders": {}
+  },
+  "consumption_measurement_unit_liter": "litros",
+  "@consumption_measurement_unit_liter": {
+    "description": "litros",
+    "type": "text",
+    "placeholders": {}
+  },
+  "add_consumption": "Adicionar",
+  "@add_consumption": {
+    "description": "Adicionar",
+    "type": "text",
+    "placeholders": {}
+  },
+  "residence": "Residência",
+  "@residence": {
+    "description": "Residência",
+    "type": "text",
+    "placeholders": {}
+  },
+  "new_consumption": "Novo consumo",
+  "@new_consumption": {
+    "description": "Novo consumo",
+    "type": "text",
+    "placeholders": {}
+  },
+  "ok": "OK",
+  "@ok": {
+    "description": "OK",
+    "type": "text",
+    "placeholders": {}
+  },
+  "failed_to_add_consumption": "Ocorreu um erro durante o registro do seu consumo. Verique sua conexão e tente novamente.",
+  "@failed_to_add_consumption": {
+    "description": "Ocorreu um erro durante o registro do seu consumo. Verique sua conexão e tente novamente.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "success_to_add_consumption": "O seu consumo foi registrado com sucesso.",
+  "@success_to_add_consumption": {
+    "description": "O seu consumo foi registrado com sucesso.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "reading_date": "Data de leitura",
+  "@reading_date": {
+    "description": "Data de leitura",
+    "type": "text",
+    "placeholders": {}
+  },
+  "update_consumption": "Atualizar",
+  "@update_consumption": {
+    "description": "Atualizar",
+    "type": "text",
+    "placeholders": {}
+  },
+  "you_already_have_consumption_for": "Você possui consumo cadastrado referente ao mês de {monthYear}.\nO cadastro de uma leitura para esse mesmo mês substituirá o atualmente cadastrado.",
+  "@you_already_have_consumption_for": {
+    "description": "Voce ja possui um consumo para a data especificada",
+    "type": "text",
+    "placeholders": {
+        "monthYear": {}
+    }
+  },
+  "forgot_password": "Esqueceu a senha?",
+  "@forgot_password": {
+    "description": "Esqueceu a senha?",
+    "type": "text",
+    "placeholders": {}
+  },
+  "recover_account_flow": "Recuperação de conta",
+  "@recover_account_flow": {
+    "description": "Recuperação de conta",
+    "type": "text",
+    "placeholders": {}
+  },
+  "back": "Voltar",
+  "@back": {
+    "description": "Voltar",
+    "type": "text",
+    "placeholders": {}
+  },
+  "type_your_account_email": "Informe o email da sua conta",
+  "@type_your_account_email": {
+    "description": "Informe o email da sua conta",
+    "type": "text",
+    "placeholders": {}
+  },
+  "this_email_receive_code": "Esse email receberá o código de recuperação de conta.",
+  "@this_email_receive_code": {
+    "description": "Esse email receberá o código de recuperação de conta.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "send_code": "Enviar código",
+  "@send_code": {
+    "description": "Enviar código",
+    "type": "text",
+    "placeholders": {}
+  },
+  "failed_to_request_code": "Não foi possível requisitar o código. Verifique sua conexão e se o email está correto.",
+  "@failed_to_request_code": {
+    "description": "Não foi possível requisitar o código. Verifique sua conexão e se o email está correto.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "email_example": "exemplo@email.com",
+  "@email_example": {
+    "description": "exemplo@email.com",
+    "type": "text",
+    "placeholders": {}
+  },
+  "type_recovery_code": "Código de recuperação",
+  "@type_recovery_code": {
+    "description": "Código de recuperação",
+    "type": "text",
+    "placeholders": {}
+  },
+  "thisCodeYouReceiveEmail": "Esse código foi enviado para o email {email}.",
+  "@thisCodeYouReceiveEmail": {
+    "description": "Código de recuperação",
+    "type": "text",
+    "placeholders": {
+        "email":{}
+    }
+  },
+  "invalid_code_format": "Formato inválido",
+  "@invalid_code_format": {
+    "description": "Formato inválido",
+    "type": "text",
+    "placeholders": {}
+  },
+  "code": "Código",
+  "@code": {
+    "description": "Código",
+    "type": "text",
+    "placeholders": {}
+  },
+  "validate_code": "Validar código",
+  "@validate_code": {
+    "description": "Validar código",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resent_code": "Reenviar código",
+  "@resent_code": {
+    "description": "Reenviar código",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resending_code": "Reenviando código",
+  "@resending_code": {
+    "description": "Reenviando código",
+    "type": "text",
+    "placeholders": {}
+  },
+  "code_sent": "Código enviado",
+  "@code_sent": {
+    "description": "Código enviado",
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalid_or_expired_code": "O código informado é inválido.",
+  "@invalid_or_expired_code": {
+    "description": "O código informado é inválido.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "new_password": "Nova senha",
+  "@new_password": {
+    "description": "Nova senha",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_password": "Confirmar senha",
+  "@confirm_password": {
+    "description": "Confirmar senha",
+    "type": "text",
+    "placeholders": {}
+  },
+  "type_new_password": "Digite sua nova senha",
+  "@type_new_password": {
+    "description": "Digite sua nova senha",
+    "type": "text",
+    "placeholders": {}
+  },
+  "this_will_be_new_password": "Essa será a nova senha para acessar sua conta.",
+  "@this_will_be_new_password": {
+    "description": "Essa será a nova senha para acessar sua conta.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalid_passsword": "Formato inválido",
+  "@invalid_passsword": {
+    "description": "Formato inválido",
+    "type": "text",
+    "placeholders": {}
+  },
+  "password_not_corresponding": "As senhas não correspondem.",
+  "@password_not_corresponding": {
+    "description": "As senhas não correspondem.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "reset_password": "Alterar senha",
+  "@reset_password": {
+    "description": "Alterar senha",
+    "type": "text",
+    "placeholders": {}
+  },
+  "success_updating_password": "Senha alterada com sucesso",
+  "@success_updating_password": {
+    "description": "Senha alterada com sucesso",
+    "type": "text",
+    "placeholders": {}
+  },
+  "failed_updating_password": "Não foi possível alterar a senha. Verique sua conexão e tente novamente.",
+  "@failed_updating_password": {
+    "description": "Não foi possível alterar a senha. Verique sua conexão e tente novamente.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sign_up_here": "Cadastre-se aqui",
+  "@sign_up_here": {
+    "description": "Cadastre-se aqui",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sign_up": "Cadastro",
+  "@sign_up": {
+    "description": "Cadastro",
+    "type": "text",
+    "placeholders": {}
+  },
+  "next": "Próximo",
+  "@next": {
+    "description": "Próximo",
+    "type": "text",
+    "placeholders": {}
+  },
+  "your_name_please": "O seu nome por favor",
+  "@your_name_please": {
+    "description": "O seu nome por favor",
+    "type": "text",
+    "placeholders": {}
+  },
+  "name": "Nome",
+  "@name": {
+    "description": "Nome",
+    "type": "text",
+    "placeholders": {}
+  },
+  "name_example": "Ex: José",
+  "@name_example": {
+    "description": "Ex: José",
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidName": "Nome inválido",
+  "@invalidName": {
+    "description": "Nome inválido",
+    "type": "text",
+    "placeholders": {}
+  },
+  "zipCode": "CEP",
+  "@zipCode": {
+    "description": "CEP",
+    "type": "text",
+    "placeholders": {}
+  },
+  "zipCodeExample": "#####-###",
+  "@zipCodeExample": {
+    "description": "CEP example",
+    "type": "text",
+    "placeholders": {}
+  },
+  "what_your_address": "Qual o seu endereço?",
+  "@what_your_address": {
+    "description": "Qual o seu endereço?",
+    "type": "text",
+    "placeholders": {}
+  },
+  "street": "Rua",
+  "@street": {
+    "description": "Rua",
+    "type": "text",
+    "placeholders": {}
+  },
+  "number": "Número",
+  "@number": {
+    "description": "Número",
+    "type": "text",
+    "placeholders": {}
+  },
+  "neighborhood": "Bairro",
+  "@neighborhood": {
+    "description": "Bairro",
+    "type": "text",
+    "placeholders": {}
+  },
+  "city": "Cidade",
+  "@city": {
+    "description": "Cidade",
+    "type": "text",
+    "placeholders": {}
+  },
+  "uf": "UF",
+  "@uf": {
+    "description": "UF",
+    "type": "text",
+    "placeholders": {}
+  },
+  "ufExample": "Ex: RJ",
+  "@ufExample": {
+    "description": "Ex: RJ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "complement": "Complemento",
+  "@complement": {
+    "description": "Complemento",
+    "type": "text",
+    "placeholders": {}
+  },
+  "obligatedFieldSmall": "Obrigatório",
+  "@obligatedFieldSmall": {
+    "description": "Obrigatório",
+    "type": "text",
+    "placeholders": {}
+  },
+  "this_email_use_login": "Você usará esse email para acessar sua conta.",
+  "@this_email_use_login": {
+    "description": "Você usará esse email para acessar sua conta.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailUnavailable": "Esse email está em uso",
+  "@emailUnavailable": {
+    "description": "Esse email está em uso",
+    "type": "text",
+    "placeholders": {}
+  },
+  "now_need_your_email": "Agora precisamos do seu email",
+  "@now_need_your_email": {
+    "description": "Agora precisamos do seu email",
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourPassword": "Digite sua senha",
+  "@yourPassword": {
+    "description": "Digite sua senha",
+    "type": "text",
+    "placeholders": {}
+  },
+  "thisIsYourAccountPassword": "Essa será a senha para acessar sua conta.",
+  "@thisIsYourAccountPassword": {
+    "description": "Essa será a senha para acessar sua conta.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidResidentsCount": "O valor deve ser maior ou igual a zero",
+  "@invalidResidentsCount": {
+    "description": "O valor deve ser maior ou igual a zero",
+    "type": "text",
+    "placeholders": {}
+  },
+  "whatsNumberOfResidents": "Qual o número de residentes?",
+  "@whatsNumberOfResidents": {
+    "description": "Qual o número de residentes?",
+    "type": "text",
+    "placeholders": {}
+  },
+  "residentsCountingWithYou": "O número de pessoas contando com você que moram na mesma casa.",
+  "@residentsCountingWithYou": {
+    "description": "O número de pessoas contando com você que moram na mesma casa.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "numberResidents": "Nº Residentes",
+  "@numberResidents": {
+    "description": "Nº Residentes",
+    "type": "text",
+    "placeholders": {}
+  },
+  "chooseManager": "Escolha o gerente responsável",
+  "@chooseManager": {
+    "description": "Escolha o gerente responsável",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingManagers": "Carregando gerentes",
+  "@loadingManagers": {
+    "description": "Carregando gerentes",
+    "type": "text",
+    "placeholders": {}
+  },
+  "failedLoadingManagers": "Falha em carregar os gerentes",
+  "@failedLoadingManagers": {
+    "description": "Falha em carregar os gerentes",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noManagersFound": "Nenhum gerente encontrado",
+  "@noManagersFound": {
+    "description": "Nenhum gerente encontrado",
+    "type": "text",
+    "placeholders": {}
+  },
+  "reviewInformations": "Revise as informações",
+  "@reviewInformations": {
+    "description": "Revise as informações",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm": "Confirmar",
+  "@confirm": {
+    "description": "Confirmar",
+    "type": "text",
+    "placeholders": {}
+  },
+  "address": "Endereço",
+  "@address": {
+    "description": "Endereço",
+    "type": "text",
+    "placeholders": {}
+  },
+  "manager": "Gerente",
+  "@manager": {
+    "description": "Gerente",
+    "type": "text",
+    "placeholders": {}
+  },
+  "signUpSuccess": "Cadastro realizado com sucesso!",
+  "@signUpSuccess": {
+    "description": "Cadastro realizado com sucesso!",
+    "type": "text",
+    "placeholders": {}
+  },
+  "signUpFailed": "Ocorreu um erro durante o cadastro.\n\nPor favor verifique sua conexão e tente novamente, se o erro persistir fale com o seu gerente.",
+  "@signUpFailed": {
+    "description": "Ocorreu um erro durante o cadastro. Por favor verifique sua conexão e tente novamente, se o erro persistir fale com o seu gerente.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "helloUser": "Olá\n{firstName}",
+  "@helloUser": {
+    "description": "Ola usuario",
+    "type": "text",
+    "placeholders": {
+        "firstName":{}
+    }
+  },
+  "signOut": "Sair",
+  "@signOut": {
+    "description": "Sair",
+    "type": "text",
+    "placeholders": {}
+  },
+  "doYouWantSignOut": "Deseja realmente sair da sua conta?",
+  "@doYouWantSignOut": {
+    "description": "Deseja realmente sair da sua conta?",
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes": "Sim",
+  "@yes": {
+    "description": "Sim",
+    "type": "text",
+    "placeholders": {}
+  },
+  "no": "Não",
+  "@no": {
+    "description": "Não",
+    "type": "text",
+    "placeholders": {}
+  },
+  "grant_permissions": "Conceder permissões",
+  "@grant_permissions": {
+    "description": "Conceder permissões",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "Cancelar",
+  "@cancel": {
+    "description": "Cancelar",
+    "type": "text",
+    "placeholders": {}
+  },
+  "permission_needed": "Permissão Necessária",
+  "@permission_needed": {
+    "description": "Permissão Necessária",
+    "type": "text",
+    "placeholders": {}
+  },
+  "notification_permissions_needed_message": "Precisamos de permissão para enviar notificações sobre qualquer novidade.",
+  "@notification_permissions_needed_message": {
+    "description": "Precisamos de permissão para enviar notificações sobre qualquer novidade.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "consumption_chart": "Consumo",
+  "@consumption_chart": {
+    "description": "Consumo",
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit_profile": "Editar perfil",
+  "@edit_profile": {
+    "description": "Editar perfil",
+    "type": "text",
+    "placeholders": {}
+  },
+  "editProfileSuccess": "Perfil atualizado com sucesso!",
+  "@editProfileSuccess": {
+    "description": "Perfil atualizado com sucesso!",
+    "type": "text",
+    "placeholders": {}
+  },
+  "editProfileFailed": "Ocorreu um erro durante a atualização dos seus dados.\n\nPor favor verifique sua conexão e tente novamente, se o erro persistir fale com o seu gerente.",
+  "@editProfileFailed": {
+    "description": "Ocorreu um erro durante a atualização dos seus dados. Por favor verifique sua conexão e tente novamente, se o erro persistir fale com o seu gerente.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "define_address": "Definir endereço",
+  "@define_address": {
+    "description": "Definir endereço",
+    "type": "text",
+    "placeholders": {}
+  },
+  "address_obligated_field": "O endereço é um campo obrigatório",
+  "@address_obligated_field": {
+    "description": "O endereço é um campo obrigatório",
+    "type": "text",
+    "placeholders": {}
+  },
+  "client": "Cliente",
+  "@client": {
+    "description": "Cliente",
+    "type": "text",
+    "placeholders": {}
+  },
+  "internal_server_error": "Ocorreu um erro interno no servidor.",
+  "@internal_server_error": {
+    "description": "Intenal server error",
+    "type": "text",
+    "placeholders": {}
+  },
+  "not_internet_connection": "Sem acesso a internet!",
+  "@not_internet_connection": {
+    "description": "No internet connection",
+    "type": "text",
+    "placeholders": {}
+  },
+  "failed_perform_request": "Ocorreu um erro durante a requisição. Verifique sua conexão e tente novamente!",
+  "@failed_perform_request": {
+    "description": "Failed to perform request. Verify your internet conection and try again!",
+    "type": "text",
+    "placeholders": {}
+  },
+  "unexpected_error": "Acabou de acontecer um erro inesperado",
+  "@unexpected_error": {
+    "description": "Unexpected error",
+    "type": "text",
+    "placeholders": {}
+  },
+  "login_failed_verify_credentials": "Falha no login, por favor verifique email e senha!",
+  "@login_failed_verify_credentials": {
+    "description": "Login failed, please verify your credentials!",
+    "type": "text",
+    "placeholders": {}
+  }
+}

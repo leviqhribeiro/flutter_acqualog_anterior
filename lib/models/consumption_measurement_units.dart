@@ -1,0 +1,4 @@
+enum ConsumptionMeasurementUnits {
+  meter,
+  liter,
+}

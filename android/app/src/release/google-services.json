@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "968243884707",
+    "project_id": "acqualog-d5213",
+    "storage_bucket": "acqualog-d5213.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968243884707:android:50dc3959ee95b04e3c0516",
+        "android_client_info": {
+          "package_name": "br.com.canteiro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968243884707-6nr6t1u1gsfpe41b6egvhmnbkoaiobgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvAAhxL8l7XEN2te1FWHudT3g0sThitZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968243884707-6nr6t1u1gsfpe41b6egvhmnbkoaiobgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968243884707:android:d01f513d68350e7a3c0516",
+        "android_client_info": {
+          "package_name": "br.com.canteiro.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968243884707-6nr6t1u1gsfpe41b6egvhmnbkoaiobgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvAAhxL8l7XEN2te1FWHudT3g0sThitZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968243884707-6nr6t1u1gsfpe41b6egvhmnbkoaiobgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
